@@ -1,0 +1,5 @@
+<ruleset name="dontshootpdx.org">
+  <target host="dontshootpdx.org" />
+  <target host="www.dontshootpdx.org" />
+  <rule from="^http:" to="https:" />
+</ruleset>
